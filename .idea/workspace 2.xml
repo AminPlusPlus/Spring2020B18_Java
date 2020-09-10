@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a833176-07bd-4478-9acc-f4b3e4882773" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ep51LmUjtuMVGn2Sr8UAQlOfAL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a833176-07bd-4478-9acc-f4b3e4882773" name="Default Changelist" comment="" />
+      <created>1595005478323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595005478323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="216" width="1440" height="827" key="new project wizard" timestamp="1595005583625">
+      <screen x="1920" y="180" width="1440" height="900" />
+    </state>
+    <state x="1920" y="216" width="1440" height="827" key="new project wizard/0.0.1920.1080/1920.180.1440.900@1920.180.1440.900" timestamp="1595005583625" />
+  </component>
+</project>
